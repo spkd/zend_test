@@ -1,0 +1,4 @@
+Head to https://github.com/settings/tokens/new?scopes=repo&description=Composer+2015-07-14+1912
+
+
+composer config -g github-oauth.github.com Composer 2015-07-14 1912
